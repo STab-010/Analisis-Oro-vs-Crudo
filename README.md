@@ -12,7 +12,7 @@ Para la realización del mismo se emplearon Python, matplotlib, pandas, yfinance
 pip install yfinance pandas matplotlib seaborn numpy
 
 ## Conclusiones
--Podemos ver que en 2020, en pandemia, el oro crece como respuesta al miedo por el COVID, y asimismo vemos como el 20 de abril, el crudo cae históricamente a precios negativos por falta de almacenamiento.
+- Podemos ver que en 2020, en pandemia, el oro crece como respuesta al miedo por el COVID, y asimismo vemos como el 20 de abril, el crudo cae históricamente a precios negativos por falta de almacenamiento.
 
 - También es de notar que en el periodo analizado, el oro se comporta como un activo mucho menos volátil y seguro, con un crecimiento del 231%.
 
