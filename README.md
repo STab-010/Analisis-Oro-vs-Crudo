@@ -4,7 +4,7 @@
 ![matplotlib](https://img.shields.io/badge/matplotlib-✓-green)
 
 ## Descripción
-Este es mi primer proyecto de análisis de datos, es un análisis breve sobre el oro y el crudo, ver si se relacionan y entender como reaccionan en un periodo de tiempo.
+Este es mi primer proyecto autónomo de análisis de datos, es un análisis breve sobre el oro y el crudo, ver si se relacionan y entender como reaccionan en un periodo de tiempo.
 Este proyecto cubre desde el 2020-01-01 hasta 2026-03-14.
 Para la realización del mismo se emplearon Python, matplotlib, pandas, yfinance.
 
